@@ -1,0 +1,15 @@
+C:\Programmering 2\Hängagubbe\Hängagubbe\bin\Debug\net6.0\Hängagubbe.exe
+C:\Programmering 2\Hängagubbe\Hängagubbe\bin\Debug\net6.0\Hängagubbe.deps.json
+C:\Programmering 2\Hängagubbe\Hängagubbe\bin\Debug\net6.0\Hängagubbe.runtimeconfig.json
+C:\Programmering 2\Hängagubbe\Hängagubbe\bin\Debug\net6.0\Hängagubbe.dll
+C:\Programmering 2\Hängagubbe\Hängagubbe\bin\Debug\net6.0\Hängagubbe.pdb
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.csproj.AssemblyReference.cache
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.AssemblyInfoInputs.cache
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.AssemblyInfo.cs
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.csproj.CoreCompileInputs.cache
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.dll
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\refint\Hängagubbe.dll
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.pdb
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\Hängagubbe.genruntimeconfig.cache
+C:\Programmering 2\Hängagubbe\Hängagubbe\obj\Debug\net6.0\ref\Hängagubbe.dll

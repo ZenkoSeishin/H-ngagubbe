@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj": {}
+    "C:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj": {}
   },
   "projects": {
-    "c:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj": {
+    "C:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj",
+        "projectUniqueName": "C:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj",
         "projectName": "Hängagubbe",
-        "projectPath": "c:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj",
+        "projectPath": "C:\\Programmering 2\\Hängagubbe\\Hängagubbe\\Hängagubbe.csproj",
         "packagesPath": "C:\\Users\\Tasci.Adem\\.nuget\\packages\\",
-        "outputPath": "c:\\Programmering 2\\Hängagubbe\\Hängagubbe\\obj\\",
+        "outputPath": "C:\\Programmering 2\\Hängagubbe\\Hängagubbe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tasci.Adem\\AppData\\Roaming\\NuGet\\NuGet.Config",
